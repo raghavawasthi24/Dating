@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+<img width="573" alt="Screenshot 2023-01-22 at 8 41 41 AM" src="https://user-images.githubusercontent.com/97653340/213898893-8130be96-2a37-4377-aed0-76f5dd6d0e62.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* To forge solid ties with your spouse, visit the romance website Lace Me Up. It includes a variety of features, including a love game that awards points to couples based on the activities they engage in together, such as going on dates, going to the movies, eating dinner, etc. Its objectives include resolving marital conflicts and fostering strong ties and mutual understanding between romantic partners.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Tech Stack 🖥️
 
-### `npm start`
+![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Calculates The Love Score on The basis of Activities and Efforts You Made into th Relationship.
 
-### `npm test`
+- On Getting a Desired Score we Provide Perks and Rewards.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Suggesting Movies,Hotels,Restaurants,Games,Trips and on Completing this your Score Increases.
 
-### `npm run build`
+- When Your Score Drops at Certain Level it Notifies You to improve it. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future Scope
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Generating Customise Message and Video Wishes to Make Them Feel Special on Special Days or Events(Vedio Messages can be Pre Recorded)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Generating Timeline and Memories to Relive the Moments Again in Future.
 
-### `npm run eject`
+- Planning Complete Schedule For The Couples And Suggesting Best Things to Make Events Memorial.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## UI ScreenShots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Deployed Link

@@ -3,9 +3,7 @@
 * To forge solid ties with your spouse, visit the romance website Lace Me Up. It includes a variety of features, including a love game that awards points to couples based on the activities they engage in together, such as going on dates, going to the movies, eating dinner, etc. Its objectives include resolving marital conflicts and fostering strong ties and mutual understanding between romantic partners.
 
 
-## Tech Stack 🖥️
 
-![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ## Features 
 
@@ -25,8 +23,17 @@
 
 - Planning Complete Schedule For The Couples And Suggesting Best Things to Make Events Memorial.
 
-## UI ScreenShots
+- ## Tech Stack 🖥️
 
+![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+## UI ScreenShots
+![Screenshot (27)](https://user-images.githubusercontent.com/97653340/213901619-9f09a3dc-d1ce-442e-aba9-148fb1dda6f8.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/97653340/213901625-6d1acc5b-1644-41c5-9198-fe6d29d14661.png)
+
+![Screenshot (29)](https://user-images.githubusercontent.com/97653340/213901633-e09b33b6-63a0-44a8-8a2b-c506559bb50e.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/97653340/213901615-b1304811-39dc-45c2-9a4f-9147133ad2a1.png)
 
 
 

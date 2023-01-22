@@ -1,0 +1,16 @@
+.cards{
+    display: flex;
+    overflow-x:auto;
+    overflow-y:hidden; 
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.Main-Subhead{
+    margin: 0.5rem 2rem 0.5rem 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.Main-Subhead :hover{
+  color: rgba(white, 0.7);
+}

@@ -1,0 +1,14 @@
+.poster{
+    margin: 0rem 0.5rem;
+    padding: 1rem 0.7rem;
+    height: 10rem;
+    width: 15rem;
+    border-radius: 20px;
+    filter: grayscale(100%);
+    transition: 0.5s;
+   
+}
+.single-card :hover{
+    transform:scale3d(1.2,1.2,1.2);
+    filter: grayscale(0%);
+}

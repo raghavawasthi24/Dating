@@ -1,0 +1,6 @@
+.apps h2{ 
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem;
+    font-size: 2rem;
+}

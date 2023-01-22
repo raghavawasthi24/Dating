@@ -44,3 +44,5 @@
 
 
 ## Deployed Link
+
+[Netlify Link](https://dazzling-medovik-8f81ac.netlify.app/)
